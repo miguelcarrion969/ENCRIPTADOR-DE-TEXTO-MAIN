@@ -21,7 +21,7 @@ Necesitas tener instalado un editor de código y un navegador web para ejecutar 
 
 ## Despliegue 
 
-Puedes acceder al proyecto desplegado en GitHub Pages [aquí](https://miguelcarrion969.github.io/Encriptador_de_texto/).
+Puedes acceder al proyecto desplegado en GitHub Pages [aquí](https://miguelcarrion969.github.io/Encriptador-de-texto/).
 
 ## Construido con 
 
