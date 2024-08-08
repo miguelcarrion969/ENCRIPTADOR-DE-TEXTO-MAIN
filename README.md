@@ -25,7 +25,7 @@ Actualmente, no hay pruebas automatizadas implementadas para este proyecto.
 
 ## Despliegue 📦
 
-Puedes acceder al proyecto desplegado en GitHub Pages [aquí](https://miguelcarrion969.github.io/ENCRIPTADOR-DE-TEXTO/).
+Puedes acceder al proyecto desplegado en GitHub Pages [aquí](https://miguelcarrion969.github.io/ENCRIPTADOR-DE-TEXTO-MAIN/).
 
 ## Construido con 🛠️
 
@@ -37,8 +37,8 @@ Puedes acceder al proyecto desplegado en GitHub Pages [aquí](https://miguelcarr
 
 ¡Gracias por considerar contribuir a este proyecto! Para participar:
 
-1. Fork del repositorio (https://github.com/miguelcarrion969/ENCRIPTADOR-DE-TEXTO/fork)
-2. Clona tu fork (`git clone https://github.com/TU_USUARIO/ENCRIPTADOR-DE-TEXTO.git`)
+1. Fork del repositorio (https://github.com/miguelcarrion969/ENCRIPTADOR-DE-TEXTO-MAIN/fork)
+2. Clona tu fork (`git clone https://github.com/TU_USUARIO/ENCRIPTADOR-DE-TEXTO-MAIN.git`)
 3. Crea una rama para tu cambio (`git checkout -b feature/nueva-funcionalidad`)
 4. Haz commit de tus cambios (`git commit -am 'Agrega nueva funcionalidad'`)
 5. Haz push a la rama (`git push origin feature/nueva-funcionalidad`)
