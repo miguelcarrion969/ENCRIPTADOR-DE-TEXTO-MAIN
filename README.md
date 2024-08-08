@@ -19,10 +19,6 @@ Necesitas tener instalado un editor de código y un navegador web para ejecutar 
 
 3. ¡Listo! Ahora puedes empezar a encriptar y desencriptar texto.
 
-## Ejecutando las pruebas ⚙
-
-Actualmente, no hay pruebas automatizadas implementadas para este proyecto.
-
 ## Despliegue 
 
 Puedes acceder al proyecto desplegado en GitHub Pages [aquí](https://miguelcarrion969.github.io/Encriptador_de_texto/).
