@@ -12,7 +12,7 @@ Necesitas tener instalado un editor de código y un navegador web para ejecutar 
 
 ### Instalación 🔧
 
-1. Clona este repositorio en tu máquina local utilizando Git: https://github.com/miguelcarrion969/ENCRIPTADOR-DE-TEXTO.git
+1. Clona este repositorio en tu máquina local utilizando Git: https://github.com/miguelcarrion969/ENCRIPTADOR-DE-TEXTO-MAIN.git
 
 
 2. Abre el archivo `index.html` en tu navegador web.
