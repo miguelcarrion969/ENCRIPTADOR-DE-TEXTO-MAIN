@@ -12,7 +12,7 @@ Necesitas tener instalado un editor de código y un navegador web para ejecutar 
 
 ### Instalación 
 
-1. Clona este repositorio en tu máquina local utilizando Git: https://github.com/miguelcarrion969/ENCRIPTADOR-DE-TEXTO-MAIN.git
+1. Clona este repositorio en tu máquina local utilizando Git: https://github.com/miguelcarrion969/Encriptador-de-texto.git
 
 
 2. Abre el archivo `index.html` en tu navegador web.
@@ -25,7 +25,7 @@ Actualmente, no hay pruebas automatizadas implementadas para este proyecto.
 
 ## Despliegue 
 
-Puedes acceder al proyecto desplegado en GitHub Pages [aquí](https://miguelcarrion969.github.io/ENCRIPTADOR-DE-TEXTO-MAIN/).
+Puedes acceder al proyecto desplegado en GitHub Pages [aquí](https://miguelcarrion969.github.io/Encriptador_de_texto/).
 
 ## Construido con 
 
