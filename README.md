@@ -19,6 +19,10 @@ Necesitas tener instalado un editor de código y un navegador web para ejecutar 
 
 3. ¡Listo! Ahora puedes empezar a encriptar y desencriptar texto.
 
+## Despliegue 
+
+Puedes acceder al proyecto desplegado en GitHub Pages [aquí](https://miguelcarrion969.github.io/Encriptador-de-texto/).
+
 ## Construido con 
 
 - HTML - Estructura de la página web.
